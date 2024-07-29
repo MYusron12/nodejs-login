@@ -22,8 +22,6 @@ A simple Node.js application for user authentication, including login and regist
    git clone https://github.com/MYusron12/nodejs-login.git
    ```
 
-````
-
 2. **Navigate to the project directory:**
 
    ```bash
@@ -144,4 +142,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **License:** Informasi lisensi proyek.
 - **Acknowledgments:** Penghargaan kepada alat atau pustaka yang digunakan dalam proyek.
 ```
-````
